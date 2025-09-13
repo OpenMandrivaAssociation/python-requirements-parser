@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/requirements-parser/
 License:	Apache-2.0
 Group:		Development/Python
 BuildRequires:	python
+python%{pyver}dist(poetry-core)
 BuildSystem:	python
 BuildArch:	noarch
 
