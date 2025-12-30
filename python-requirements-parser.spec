@@ -1,6 +1,6 @@
 Name:		python-requirements-parser
 Version:	0.13.0
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/r/requirements-parser/requirements_parser-%{version}.tar.gz
 Summary:	This is a small Python module for parsing Pip requirement files.
 URL:		https://pypi.org/project/requirements-parser/
